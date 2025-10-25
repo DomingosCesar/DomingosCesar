@@ -39,8 +39,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e ex
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Email](mailto:seu-email@email.com)
+- [LinkedIn](https://www.linkedin.com/in/domingos-cesar-43178731b)
+- [Email](mailto:domingoscesar2001@gmail.com)
 
 ---
 
@@ -59,6 +59,6 @@ Sinta-se à vontade para abrir issues, contribuir com meus projetos ou me chamar
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario">LinkedIn</a> •
-  <a href="mailto:seu-email@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/domingos-cesar-43178731b">LinkedIn</a> •
+  <a href="mailto:domingoscesar2001@gmail.com">Email</a>
 </p>
